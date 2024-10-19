@@ -1,4 +1,5 @@
-// Linear Regression Program For Photo-Electric Effect 
+// Linear Regression Program For Photo-Electric Effect
+// It use the Least-Square Method 
 
 #include<stdio.h>
 
