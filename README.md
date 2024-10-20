@@ -6,3 +6,6 @@
   This repository contains the codes of Computational Methods for Physicists written in 
   <i class="fa-brands fa-c"></i>
 </h3>
+
+<h2>This repository contains the codes of Computational Methods for Physicists written in ![C](https://img.shields.io/badge/language-C-blue?logo=c)<\h2>
+
