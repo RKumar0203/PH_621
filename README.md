@@ -1,10 +1,6 @@
-<head>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-</head>
 
-<h3>
-  This repository contains the codes of Computational Methods for Physicists written in ![Static Badge](https://img.shields.io/badge/USES-C-blue)
+![Static Badge](https://img.shields.io/badge/USES-C-blue)
 
-</h3>
+<h3>This repository contains programs for Computational Methods for Physicist written in C</h3>
 
 
