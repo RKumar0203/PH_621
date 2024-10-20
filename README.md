@@ -3,8 +3,8 @@
 </head>
 
 <h3>
-  This repository contains the codes of Computational Methods for Physicists written in C
+  This repository contains the codes of Computational Methods for Physicists written in ![Static Badge](https://img.shields.io/badge/USES-C-blue)
+
 </h3>
 
 
-[![forthebadge](https://forthebadge.com/images/featured/featured-uses-html.svg)](https://forthebadge.com)
