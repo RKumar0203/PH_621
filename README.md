@@ -1,6 +1,8 @@
 
-![Static Badge](https://img.shields.io/badge/USES-C-blue)
 
-<h3>This repository contains programs for Computational Methods for Physicist written in C</h3>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
+<h3>This repository contains programs for Computational Methods for Physicists written in C</h3>
 
 
