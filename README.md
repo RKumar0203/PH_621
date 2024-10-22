@@ -10,6 +10,6 @@
 
 
 
-<h3>This repository contains programs for Computational Methods for Physicists written mainly in C</h3>
+#This repository contains code 
 
 
