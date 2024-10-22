@@ -5,11 +5,4 @@
 
 
 
-
-
-
-
-
-#This repository contains code 
-
-
+## This repository contains codes of Computational Methods for Physicists mainly written in C
